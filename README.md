@@ -130,12 +130,12 @@ BROADCAST_CONNECTION=pusher
 PUSHER_APP_ID=local_app_id
 PUSHER_APP_KEY=local_dev_key_7x39
 PUSHER_APP_SECRET=local_dev_secret_9q42
-PUSHER_HOST=socketi.sleekclassified.com
+PUSHER_HOST=soc.sleekclassified.com
 PUSHER_PORT=443
 PUSHER_SCHEME=https
 
 VITE_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
-VITE_PUSHER_HOST="socketi.sleekclassified.com"
+VITE_PUSHER_HOST="soc.sleekclassified.com"
 VITE_PUSHER_PORT=443
 VITE_PUSHER_SCHEME=https
 ```
